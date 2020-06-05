@@ -1,8 +1,9 @@
-# My Simple Website
+# My Simple Website using [new.css](https://github.com/xz/new.css)
+
+You can see the original markdown file [here](https://github.com/matsui528/markdown2newcss/blob/master/sample/index.md)
 
 Some sample texts. This is *emphasize*. This is **bold**.
 
-You can see the original markdown file [here](https://github.com/matsui528/markdown2newcss/blob/master/sample/index.md)
 
 - One 
 - Two 
