@@ -2,7 +2,7 @@
 
 Some sample texts. This is *emphasize*. This is **bold**.
 
-You can see the original markdown file [here](https://github.com/matsui528/markdown2newcss/blob/master/markdown2newcss/sample/index.md)
+You can see the original markdown file [here](https://github.com/matsui528/markdown2newcss/blob/master/sample/index.md)
 
 - One 
 - Two 

@@ -1,6 +1,6 @@
 # Markdown To new.css
 
-Convert a plain markdown to an HTML file with [new.css](https://github.com/xz/new.css).
+Convert a plain markdown to an HTML with [new.css](https://github.com/xz/new.css).
 
 ## [Demo](https://matsui528.github.io/markdown2newcss/)
 
