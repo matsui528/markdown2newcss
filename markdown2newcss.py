@@ -44,20 +44,20 @@ def ul_to_nav(txt):
 
 
 
-def run(body="body.md", header="header.md", out="index.html", title="index"):
+def run(body="body.md", nav="nav.md", out="index.html", title="index"):
     """
     Convert the markdown to html.
     
     Args:
         body (str): A path to the markdown file of body
-        header (str): A path to the markdown file of header
+        nav (str): A path to the markdown file of navigation
         out (str): A path to the output html file
         title (str): A title of the website
     """
 
     html = tmpl_begin.format(title=title)
 
-    with open(header, "rt") as f:
+    with open(nav, "rt") as f:
         html += '<header>\n'
         html += ul_to_nav(mistune.html(f.read()))
         html += '</header>\n'
