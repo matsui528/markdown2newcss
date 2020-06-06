@@ -24,3 +24,9 @@ python markdown2newcss.py --body sample/usage.md --header sample/header.md --out
     python markdown2newcss.py --body my_website.md --header my_header.md --out my_website.html --title my_website
     ```
 
+## Contribute
+Feel free to open a pull request :smile:
+
+## Author
+[@matsui528](https://github.com/matsui528)
+
