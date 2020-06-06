@@ -20,9 +20,9 @@ python markdown2newcss.py --body sample/usage.md --header sample/header.md --out
 1. Write a markdown file for a header. Let's say `my_header.md`. See [sample/header.md](sample/header.md) for details.
 1. Write a markdown file for a body.  Let's say `my_website.md`. See [sample/index.md](sample/index.md) for details.
 1. Run the following and generate `my_website.html`.
-    ```bash
-    python markdown2newcss.py --body my_website.md --header my_header.md --out my_website.html --title my_website
-    ```
+```bash
+python markdown2newcss.py --body my_website.md --header my_header.md --out my_website.html --title my_website
+```
 
 ## Contribute
 Feel free to open a pull request :smile:
